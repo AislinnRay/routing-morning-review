@@ -1,7 +1,7 @@
 import React from 'react';
 import {Switch, Route} from 'react-router-dom';
-import Landing from './src/components/Landing';
-import Profile from './src/components/Profile';
+import Landing from './components/Landing';
+import Profile from './components/Profile';
 
 export default (
     <Switch>
